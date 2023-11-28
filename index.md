@@ -11,3 +11,7 @@ Here is some more text
 ``` python
 var1 = "Hello, world!"
 ```
+
+- [ ] Make this shit done
+- [ ] Work on the master thesis
+- [ ] levae this shity university
